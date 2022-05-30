@@ -1,0 +1,6 @@
+use Test;
+use App::DockerComposeMenu;
+
+pass "replace me";
+
+done-testing;
