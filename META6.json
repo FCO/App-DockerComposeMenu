@@ -5,8 +5,9 @@
   "build-depends": [
   ],
   "depends": [
+    "Term::Choose"
   ],
-  "description": "blah blah blah",
+  "description": "CLI UI for docker compose",
   "license": "Artistic-2.0",
   "name": "App::DockerComposeMenu",
   "perl": "6.d",
@@ -15,8 +16,11 @@
   },
   "resources": [
   ],
-  "source-url": "",
+  "source-url": "git@github.com:FCO/App-DockerComposeMenu.git",
   "tags": [
+    "docker",
+    "cli",
+    "menu"
   ],
   "test-depends": [
   ],

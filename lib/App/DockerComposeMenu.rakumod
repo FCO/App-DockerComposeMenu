@@ -1,5 +1,4 @@
 unit class App::DockerComposeMenu;
-use YAMLish;
 use Term::Choose;
 
 class DockerComposeWrapper {
