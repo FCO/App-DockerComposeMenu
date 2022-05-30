@@ -1,5 +1,5 @@
-class Mu $
-----------
+docker-compose-menu
+-------------------
 
 Docker compose file to be used
 
