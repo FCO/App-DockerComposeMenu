@@ -11,4 +11,5 @@ Usage:
 ```
 
 Menu:
-!(first page menu)[img/menu.png]
+
+![first page menu](img/menu.png)
